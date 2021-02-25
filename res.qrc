@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>coins.png</file>
+    </qresource>
+</RCC>
